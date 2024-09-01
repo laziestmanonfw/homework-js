@@ -1,0 +1,19 @@
+label{
+    background-color: black;
+    color: grey;
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    background-color: black;
+    color: grey;
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    background-color: rgb(93, 91, 91);
+    color: grey;
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}

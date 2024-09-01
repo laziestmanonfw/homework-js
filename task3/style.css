@@ -1,0 +1,13 @@
+#trafficLight {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  }
+
+a{
+    background-color: black;
+    color: grey;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
